@@ -1,0 +1,18 @@
+https://github.com/termud/developers.git
+git remote add origin https://github.com/termud/developers.git
+
+ git branch -M AIphanbade⁹³ 
+
+git push -u origin AIphanbade⁹³echo "# Developers" >> README.md 
+
+git init 
+
+git add README.md 
+
+git commit -m "first commit" 
+
+git branch -M AIphanbade⁹³ 
+
+git thêm origin https://github.com/termud/developers.git
+
+ git push - u origin AIphanbade⁹³
